@@ -1,5 +1,5 @@
 
-# Restaurant Website Template (Anita's Kitchen)
+# Restaurant Website Template (pratham's kitchen)
 
 #### A landing page template for a restaurant, Anita's Kitchen. It employs the use of HTML, CSS and Javascript to build it. 14-08-2017
 
